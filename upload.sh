@@ -14,4 +14,3 @@ put default.conf.php
 bye
 EOT
 
-exit 0
